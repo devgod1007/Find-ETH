@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<Container
+  as="header"
+>
+  <Modal
+    isVisible={false}
+    onClose={[Function]}
+    onConfirm={[Function]}
+  >
+    <Typography>
+      Are you sure you want to stop searching?
+    </Typography>
+  </Modal>
+  <StyledHeader__StyledHeading
+    as="h1"
+  >
+    <Logo
+      onClick={[Function]}
+    />
+  </StyledHeader__StyledHeading>
+</Container>
+`;

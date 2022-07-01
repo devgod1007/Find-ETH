@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<StyledSwitch__StyledSwitchContainer
+  isOn={true}
+  onClick={[MockFunction]}
+>
+  <StyledSwitch
+    isOn={true}
+  />
+</StyledSwitch__StyledSwitchContainer>
+`;

@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<StyledSpinner__StyledSpinnerContainer>
+  <StyledSpinner
+    height={25}
+    width={25}
+  />
+  <StyledSpinner__StyledSpinnerTypography
+    muted={true}
+  >
+    Foo
+  </StyledSpinner__StyledSpinnerTypography>
+</StyledSpinner__StyledSpinnerContainer>
+`;
